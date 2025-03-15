@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="RRTS_Project_new/src/main/java"/>
+	<classpathentry kind="output" path="RRTS_Project_new/build/classes"/>
+</classpath>
